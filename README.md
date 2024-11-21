@@ -52,7 +52,7 @@ Check out the live demo to explore the **CaseCobra** experience:
    - The entire project is written in **TypeScript** to ensure type safety and better development practices.
 
 
-## Video : [Link](https://www.youtube.com/watch?v=SG82Aqcaaa0)
+## Project Video : [Link](https://www.youtube.com/watch?v=SG82Aqcaaa0)
 
 
 ## Getting Started
