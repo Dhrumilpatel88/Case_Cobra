@@ -66,4 +66,4 @@ Ensure that you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/Dhrumilpatel88/E-commerce-Site.git)
+git clone https://github.com/Dhrumilpatel88/E-commerce-Site.git
