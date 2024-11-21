@@ -20,7 +20,7 @@ Welcome to **CaseCobra**, a fully featured custom phone case shop built with **N
 ## Live Demo
 
 Check out the live demo to explore the **CaseCobra** experience:
-[Demo Link](https://casecobra-fawn.vercel.app/))
+[Link](https://casecobra-fawn.vercel.app/))
 
 ## Features
 
