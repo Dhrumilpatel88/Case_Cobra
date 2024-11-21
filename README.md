@@ -51,6 +51,10 @@ Check out the live demo to explore the **CaseCobra** experience:
 ### 7. **TypeScript**
    - The entire project is written in **TypeScript** to ensure type safety and better development practices.
 
+
+## Video : [Link](https://www.youtube.com/watch?v=SG82Aqcaaa0)
+
+
 ## Getting Started
 
 To run this project locally, follow these steps:
