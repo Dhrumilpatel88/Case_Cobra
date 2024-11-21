@@ -1,40 +1,69 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CaseCobra - Custom Phone Case Shop
+
+Welcome to **CaseCobra**, a fully featured custom phone case shop built with **Next.js 14**! This project provides a complete shop experience, including a beautiful landing page, a custom phone case configurator, an admin dashboard, secure payments integration, and more. 
+
+## Highlights
+
+- 🛠️ **Complete shop built from scratch** in **Next.js 14**
+- 💻 **Beautiful landing page** included
+- 🎨 **Custom artworks** made by a professional illustrator
+- 💳 **Secret admin dashboard** to manage orders
+- 🖥️ **Drag-and-drop file uploads** for custom designs
+- 🛍️ **Customers can purchase directly from you**
+- 🌟 **Clean, modern UI** on top of **shadcn-ui**
+- 🛒 **Completely custom phone case configurator** for designing phone cases
+- 🔑 **Authentication using Kinde**
+- ✉️ **Beautiful thank-you email** sent after purchase
+- ✅ **Apple-inspired configurator design**
+- ⌨️ **100% written in TypeScript**
+
+## Live Demo
+
+Check out the live demo to explore the **CaseCobra** experience:
+[Demo Link](https://casecobra-fawn.vercel.app/))
+
+## Features
+
+### 1. **Landing Page**
+   - A modern and animated landing page to showcase the custom phone case shop.
+   - Featuring a **hero section** and animated design elements.
+   
+### 2. **Authentication**
+   - Users can create accounts, log in, and securely manage their profiles.
+   - **Kinde** is used for authentication and managing user accounts.
+   
+### 3. **Custom Phone Case Configurator**
+   - Customers can create their own custom designs for phone cases.
+   - **Drag-and-drop** interface allows users to upload their own artwork and personalize their cases.
+   - The configurator is **Apple-inspired**, offering a sleek and intuitive design.
+
+### 4. **Order Management**
+   - The project includes a **secret admin dashboard** for order management.
+   - Admins can view customer orders and track the status of each purchase.
+   
+### 5. **Payments Integration**
+   - Secure payment processing through **Stripe**.
+   - Integrates **Stripe webhooks** for handling order confirmations and payment statuses.
+
+### 6. **Thank You Email**
+   - Customers receive a **beautiful thank-you email** upon completing their purchase.
+   
+### 7. **TypeScript**
+   - The entire project is written in **TypeScript** to ensure type safety and better development practices.
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+Ensure that you have the following installed:
+
+- **Node.js** (LTS version recommended)
+- **npm** or **yarn**
+- **Git** (for cloning the repository)
+
+### 1. Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# E-commerce-Site
->>>>>>> 1cf328e710c0a273395d456e3fcaf9bdaee0f4a0
+git clone https://github.com/joschan21/casecobr.git
